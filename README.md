@@ -41,3 +41,12 @@ TODO Arduino Stromversorung
 TODO Spannung auslesen
 TODO Arduino Flachband verbindung
 TODO Programmierung der Matrix in C
+
+# Example With Leds Shift Register (Prototyp Output 74HC595)
+
+- https://docs.arduino.cc/tutorials/communication/guide-to-shift-out/#shftout12
+- How A Shift Register Works https://jumptuck.com/2011/11/02/how-shift-registers-work/#:~:text=Shift%20Register%20Clear%20Input%20(SCLR,it%20will%20be%20immediately%20cleared.
+- Cooles Tutorial https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/
+-
+
+# Example Input Shift Register (74HC165 )
