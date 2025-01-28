@@ -49,4 +49,8 @@ TODO Programmierung der Matrix in C
 - Cooles Tutorial https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/
 -
 
-# Example Input Shift Register (74HC165 )
+# Example Reading Matrix (Protoype with PullUp and PullDown Buttons)
+
+![Tinker Image](/read.png)
+
+[Arduino Code](/read.ino)
